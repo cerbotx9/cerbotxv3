@@ -51,7 +51,7 @@
     <hr >
         <!-- Cards Informativas en cerbotxSpace-->
           <div class="card" style="width: 18rem;">
-        <img src="https://www.mediafire.com/convkey/05ff/t13coebp0zgta5uzg.jpg" class="card-img-top" alt="...">
+        <img src="VISTA/img/publicidad/programador.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Entregas Agiles</h5>
           <p class="card-text">Nuestro equipo de Desarrollo esta capacitado para las entregas &aacute;giles mediante la metodolog&iacute;a SCRUM.</p>
